@@ -6,7 +6,7 @@ function sayHello () {
                     
                     
   else if(name =="stark") 
-    var message= "<h2>marks of " + name +" follows <br> web programming=00 <br> coa=-77 <br> mpmc=-100 </h2>";
+    var message= "<h2>marks of " + name +" as follows <br> web programming=00 <br> coa=-77 <br> mpmc=-100 </h2>";
 else 
   var message= "<h2>student doesn't exist try a different name</h2>";
   // document
