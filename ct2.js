@@ -3,6 +3,9 @@ function sayHello () {
    document.getElementById("name").value;
   if(name == "tony")
    var message = "<h2>marks of" + name + " are as follows!</h2>";
+                    "<h3>web programming=98</h3>";
+                    "<h3>coa=72</h3>";
+                    
   else 
     var message= "<h2>marks of" + name +"follows</h2>";
 
